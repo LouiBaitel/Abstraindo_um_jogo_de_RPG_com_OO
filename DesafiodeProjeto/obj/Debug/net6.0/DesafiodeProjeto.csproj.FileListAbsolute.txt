@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\DesafiodeProjeto.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\DesafiodeProjeto.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\DesafiodeProjeto.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\DesafiodeProjeto.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\ref\DesafiodeProjeto.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\bin\Debug\net6.0\DesafiodeProjeto.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\ref\DesafiodeProjeto.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Códigos das aulas\DesafiodeProjeto\obj\Debug\net6.0\DesafiodeProjeto.genruntimeconfig.cache
